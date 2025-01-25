@@ -1,9 +1,8 @@
-# FILE-INTEGRITY-_CHECKER_1
-#FILE-INTEGRITY-_CHECKER_1
-CompanyCODETECH IT SOLUTION
-Name Abhinav Bhausaheb Aher
-**Intern ID :CT08INR
-*Domain=Cyber Security & Ethical Hacking
-BATCH DURATION:January 5th, 2025 to February 5th, 2025
-Mentor NameNeela Santhosh
+SFIC
+====
 
+Simple File Integrity Checker
+
+This simple script created to help web admins be aware of intrusion of a malicious code to a web site. It scans specified directory and notifies web admin by e-mail in case of changes between scans.
+
+it supposed to run on a regular basis using CRON or occasionally using a web browser.
